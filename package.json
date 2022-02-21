@@ -8,15 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/IrynaVaku/secondAPIPaysis.git"
+    "url": "git+https://github.com/jikamad/secondAPIPaysis.git" 
+  
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/IrynaVaku/secondAPIPaysis/issues"
+    "url": "https://github.com/jikamad/secondAPIPaysis/issues"
   },
-  "homepage": "https://github.com/IrynaVaku/secondAPIPaysis#readme",
+  "homepage": "https://github.com/jikamad/secondAPIPaysis#readme",
   "devDependencies": {
     "@babel/cli": "^7.17.3",
     "@babel/core": "^7.17.5",
